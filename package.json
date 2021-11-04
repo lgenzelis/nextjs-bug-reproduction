@@ -2,7 +2,7 @@
   "name": "bug-reproduction",
   "engines": {
     "node": "^14.17",
-    "npm": ">=7"
+    "npm": "^7"
   },
   "scripts": {
     "dev": "next",
