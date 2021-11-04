@@ -1,5 +1,7 @@
 {
   "name": "bug-reproduction",
+  "version": "1.0",
+  "main": "index.js",
   "engines": {
     "node": "^14.17",
     "npm": "^7"
