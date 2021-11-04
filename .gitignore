@@ -1,0 +1,14 @@
+# dependencies
+/node_modules
+
+# next.js
+/.next
+
+# misc
+.DS_Store
+
+# webstorm project config
+.idea/
+
+# ts incremental builds
+tsconfig.tsbuildinfo
